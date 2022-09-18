@@ -23,9 +23,9 @@
 
                          git commit   
 
-  5.                       
+  5. Для сохранения и отслеживания изменений (с указание  комментария к изменению) используют команду:                      
 
-  git commit -m "message"
+                         git commit -m "message"
 
   git commit -a
 
