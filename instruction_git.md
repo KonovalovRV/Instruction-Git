@@ -36,7 +36,9 @@
   
                          git log
 
-  git -- oneline
+  8. Для вывода всех отслеживаемых изменений (commits) в одну строку используют команду:            
+  
+                         git -- oneline
 
   git --oneline --all
 
