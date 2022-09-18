@@ -11,3 +11,26 @@
      git init
 
      ## Проверка состояния репозитория
+
+     git status
+
+
+ 2. Для сохранения текущих изменений в файле используют команду:
+
+    git add <file_name>
+  
+  git commit>   
+
+  git commit -m "message"
+
+  git commit -a
+
+  git log
+
+  git -- oneline
+
+  git --oneline --all
+
+  git diff
+
+  git checkout <hash>
