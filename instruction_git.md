@@ -19,7 +19,9 @@
 
                         git add <file_name>
   
-  git commit>   
+  4. Для написания комментария в commit через текстовый редактор используют команду:
+
+                         git commit   
 
   git commit -m "message"
 
