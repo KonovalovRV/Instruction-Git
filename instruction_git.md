@@ -30,3 +30,4 @@
                           git diff <hash> <hash> 
     12. Для перемещения между commits используют команду:
                           git checkout <hash>
+                        
