@@ -65,6 +65,11 @@
 
                           git branch -d <namebranch>  
                           
+                          Пример 
+git remote add origin https://github.com/KonovalovRV/bot.git
+git branch -M main
+git push -u origin main
+                          
 # Работа с удаленным репозиторием
  ### Необходимо зарегистрироваться на сайте https://github.com (далее - сайт)
 
